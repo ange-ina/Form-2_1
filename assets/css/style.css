@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    text-align: center;
+    padding-top: 50px;
+}
+form{
+    width: 60%;
+    margin: auto;
+}
+fieldset{
+    border: none;
+    background: rgb(235, 232, 232);
+    padding: 0;
+}
+h2{
+    margin: 0;
+    background-color:lawngreen;
+    color: #ffffff;
+    padding: 2vh;
+}
+input:first-of-type{
+    margin-bottom: 0;
+}
+input{
+    width: 90%;
+    margin: 1vh;
+    height: 20px;
+    padding: 10px;
+}
+textarea{
+    width: 89%;
+    padding: 10px;
+    height: 60px;
+}
+input:last-of-type{
+    background-color:lawngreen;
+    padding: 0;
+    height: 40px;
+    width: 95%;
+    color: #ffffff;
+    border: none;
+}
+input:last-of-type:hover{
+    background: rgb(2, 100, 200);
+}
